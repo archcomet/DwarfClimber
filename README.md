@@ -11,6 +11,6 @@ In this 2d side scroller, you are a dwarf with a flag. Collect coins and carry t
 This project is our first [One Game a Month](http://www.onegameamonth.com/) game and our first time using Unreal Engine 4.
 
 
-By Michael Good (archcomet)
+By Michael Good (@archcomet)
 
-Thanks to Rodney Grefalda for contributing to the level design and helping with asset wrangling!
+Thanks to Rodney Grefalda (@jrodneydg) for contributing to the level design and helping with asset wrangling!
